@@ -1,0 +1,5 @@
+pip install gym-anytrading
+
+git clone https://github.com/AminHP/gym-anytrading
+cd gym-anytrading
+pip install -e .
